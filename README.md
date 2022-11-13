@@ -13,7 +13,7 @@ For all the contents in this github repository:
 - [Presentation video](https://youtu.be/cTBlM6erHhg)
 - [Javadocs](https://github.com/john14759/SC2002-MOBLIMA-assignment/tree/main/Javadocs)
 
-## Contributors
+## Contributors (SS9 Group 4)
 1. **@john14759** (Johnathan Chow)
 2. **@joeltancej** (Joel Tan (Chen Enjing))
 3. **@SimonSim8455** (Sim Oi Liang)
