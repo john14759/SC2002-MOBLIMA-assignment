@@ -7,7 +7,7 @@ MOvie Booking and LIsting Management Application (MOBLIMA)
 
 
 For all the contents in this github repository:
-- [UML diagram for the ideation of the code](link)
+- [UML diagram for the ideation of the code](https://github.com/john14759/SC2002-MOBLIMA-assignment/blob/main/Class_Diagram_Final.jpg)
 - [MOBLIMA code](link)
 - [Report](link)
 - [Presentation video](https://youtu.be/cTBlM6erHhg)
