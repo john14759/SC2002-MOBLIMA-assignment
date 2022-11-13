@@ -11,12 +11,13 @@ For all the contents in this github repository:
 - [MOBLIMA code](link)
 - [Report](link)
 - [Presentation video](https://youtu.be/cTBlM6erHhg)
+- [Javadocs]()
 
 ## Contributors
 1. **@john14759** (Johnathan Chow)
 2. **@joeltancej** (Joel Tan (Chen Enjing))
 3. **@SimonSim8455** (Sim Oi Liang)
-4. **@** (Sim Guan Yu)
+4. **@cooliomoolio1108** (Sim Guan Yu)
 
 
 ## IDE and programming language used
