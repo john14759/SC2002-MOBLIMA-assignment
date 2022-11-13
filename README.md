@@ -15,7 +15,7 @@ For all the contents in this github repository:
 ## Contributors
 1. **@john14759** (Johnathan Chow)
 2. **@joeltancej** (Joel Tan (Chen Enjing))
-3. **@SimonSim8455 (Sim Oi Liang)
+3. **@SimonSim8455** (Sim Oi Liang)
 4. **@** (Sim Guan Yu)
 
 
