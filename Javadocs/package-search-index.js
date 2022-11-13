@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"SC2002_Assignment2","l":"database"},{"m":"SC2002_Assignment2","l":"mainAppRunner"},{"m":"SC2002_Assignment2","l":"manager"},{"m":"SC2002_Assignment2","l":"model"},{"m":"SC2002_Assignment2","l":"uI"},{"m":"SC2002_Assignment2","l":"utils"}];updateSearchResults();
